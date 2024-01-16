@@ -1,5 +1,7 @@
 # Openwrt for GL.iNET SFT1200
 
+git clone https://github.com/chanmice2/openwrt-sft1200.git
+
 編譯方法
 cd openwrt-18.06
 
