@@ -17,5 +17,7 @@ make -j8 download && make V=s -j$(nproc)
 
 
 取消passwall，sr等插件
+
 ./scripts/feeds upinstall -a
+
 make clean
